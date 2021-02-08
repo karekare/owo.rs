@@ -9,21 +9,21 @@
 */
 
 let active = [{
-    "description": "The site for https://github.com/uwuers/owo.rs/",
-    "domain": "my.owo.rs",
+    "description": "The site for https://github.com/karekare/",
+    "domain": "melody.uwu.rs",
     "contact": {
-        "username": "kanbaru",
-        "email": "emma@uwu.rs"
+        "username": "MolyMelody",
+        "email": "discord@basehorizon.tech"
     },
     "dns": {
         "a": "redacted" // Redacted for privacy.
     }
 }, {
-    "description": "My personal website.",
-    "domain": "emma.owo.rs",
+    "description": "My base in the internet.",
+    "domain": "melody.uwu.rs",
     "contact": {
-        "gh_username": "kanbaru",
-        "email": "emma@uwu.rs"
+        "gh_username": "karekare",
+        "email": "discord@basehorizon.tech"
     },
     "dns": {
         "cname": "cname.vercel-dns.com"
@@ -32,8 +32,8 @@ let active = [{
     "description": "Redirection to uwu.rs.",
     "domain": "owo.rs",
     "contact": {
-        "username": "kanbaru",
-        "email": "emma@uwu.rs"
+        "username": "melody",
+        "email": "melody@uwu.rs"
     },
     "dns": {
         "cname": "cname.vercel-dns.com"
@@ -42,8 +42,8 @@ let active = [{
     "description": "Private image subdomain.",
     "domain": "i.owo.rs",
     "contact": {
-        "username": "kanbaru",
-        "email": "emma@uwu.rs"
+        "username": "melody",
+        "email": "melody@uwu.rs"
     },
     "dns": {
         "a": "redacted" // Redacted for privacy.
@@ -51,33 +51,33 @@ let active = [{
     }
 }, {
     "description": "Private url shortener.",
-    "domain": "aka.owo.rs",
+    "domain": "melody.owo.rs",
     "contact": {
-        "username": "kanbaru",
-        "email": "emma@uwu.rs"
+        "username": "melody",
+        "email": "melody@uwu.rs"
     },
     "dns": {
         "cname":"cname.vercel-dns.com
     }
 },{
     "description": "Personal site.",
-    "domain": "bv.owo.rs",
+    "domain": "melody.owo.rs",
     "contact": {
-        "username": "bvoo",
-        "twitter": "bvoo"
+        "username": "melody",
+        "twitter": "thequaken"
     },
     "dns": {
-        "cname": "bvoo.xyz"
+        "cname": "melody.xyz"
     }
 },{
-    "description": "My Personal Development Website (Where all most ChisdealHDYT Source codes can be Stored all in 1 Site)",
-    "domain": "chisdealhdyt.owo.rs",
+    "description": "My personel website in the internet.",
+    "domain": "melody.owo.rs",
     "contact": {
-        "username": "chisdealhdyt",
-        "twitter": "@chisdealhd",
-        "discord": "ChisdealHDYT#7172"      
+        "username": "melody",
+        "twitter": "@thequaken",
+        "discord": "MolyMelody#3969 (591567129594036225)"      
     },
     "dns": {
-        "cname":"chisdealhd.co.uk"
+        "cname":"melody.co.uk"
     }
 },]
